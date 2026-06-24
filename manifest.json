@@ -1,0 +1,14 @@
+{
+  "name": "Inuson International Inc.",
+  "short_name": "Inuson",
+  "description": "U.S.-based staffing and recruitment company specializing in Contract Staffing, Direct Hire, Executive Search, and Recruitment Solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "lang": "en-US",
+  "icons": [
+    { "src": "assets/inuson-mark.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/inuson-mark.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
