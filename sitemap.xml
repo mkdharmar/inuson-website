@@ -1,4 +1,3 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
@@ -12,28 +11,28 @@
 
   <!-- Core Pages -->
   <url>
-    <loc>https://inuson.com/about.html</loc>
+    <loc>https://inuson.com/about</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/why-inuson.html</loc>
+    <loc>https://inuson.com/why-inuson</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/contact.html</loc>
+    <loc>https://inuson.com/contact</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/careers.html</loc>
+    <loc>https://inuson.com/careers</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
@@ -41,28 +40,28 @@
 
   <!-- Services -->
   <url>
-    <loc>https://inuson.com/services.html</loc>
+    <loc>https://inuson.com/services</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/contract-staffing.html</loc>
+    <loc>https://inuson.com/contract-staffing</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/direct-hire.html</loc>
+    <loc>https://inuson.com/direct-hire</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/executive-search.html</loc>
+    <loc>https://inuson.com/executive-search</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
@@ -70,56 +69,70 @@
 
   <!-- Industries -->
   <url>
-    <loc>https://inuson.com/industries.html</loc>
+    <loc>https://inuson.com/industries</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.88</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-it.html</loc>
+    <loc>https://inuson.com/industry-it</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-engineering.html</loc>
+    <loc>https://inuson.com/industry-engineering</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-manufacturing.html</loc>
+    <loc>https://inuson.com/industry-manufacturing</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-healthcare.html</loc>
+    <loc>https://inuson.com/industry-healthcare</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-construction.html</loc>
+    <loc>https://inuson.com/industry-construction</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-logistics.html</loc>
+    <loc>https://inuson.com/industry-logistics</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/industry-finance.html</loc>
+    <loc>https://inuson.com/industry-finance</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/industry-administrative</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/industry-professional-services</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
@@ -127,61 +140,216 @@
 
   <!-- Resources -->
   <url>
-    <loc>https://inuson.com/resources.html</loc>
+    <loc>https://inuson.com/resources</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/blog.html</loc>
+    <loc>https://inuson.com/hiring-resources</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/faq.html</loc>
+    <loc>https://inuson.com/faq</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/case-studies.html</loc>
+    <loc>https://inuson.com/case-studies</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
+  </url>
+
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://inuson.com/blog/top-hiring-trends-2026</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/how-to-reduce-time-to-hire</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/employer-branding-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/workforce-planning-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/executive-search-process</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/contract-staffing-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/direct-hire-vs-contract-staffing</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/recruitment-process-outsourcing</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/hidden-cost-of-a-bad-hire</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/what-to-look-for-in-a-recruiting-partner</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/engineering-talent-shortage</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/it-staffing-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/healthcare-recruitment-strategies</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/manufacturing-recruitment-trends</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/construction-hiring-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/logistics-hiring-challenges</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/finance-and-accounting-recruitment</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/interview-preparation-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/resume-writing-guide</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+
+  <url>
+    <loc>https://inuson.com/blog/salary-negotiation-tips</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+
+  <!-- Utility Pages -->
+  <url>
+    <loc>https://inuson.com/thank-you</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://inuson.com/privacy-policy.html</loc>
+    <loc>https://inuson.com/privacy-policy</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/terms-and-conditions.html</loc>
+    <loc>https://inuson.com/terms-and-conditions</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/cookie-policy.html</loc>
+    <loc>https://inuson.com/cookie-policy</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://inuson.com/accessibility.html</loc>
+    <loc>https://inuson.com/accessibility</loc>
     <lastmod>2026-06-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
 </urlset>
-```
