@@ -1,6 +1,10 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.inusoninternational.com/sitemap.xml
-
 Disallow: /404.html
+Disallow: /form-error.html
+Disallow: /index-bundle-src.html
+Disallow: /thank-you
+Disallow: /uploads/
+
+Sitemap: https://inuson.com/sitemap.xml
